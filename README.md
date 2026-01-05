@@ -4,4 +4,4 @@ A simple desktop application for indexing and retrieving documents from network 
 
 What It Does
 
-Ribbindexer scans network drives, indexes documents, and lets you quickly search and retrieve files by account ID or customer name.
+Ribbindexer scans network drives, indexes documents, and lets you quickly search and retrieve files by uploading a csv containing tags or by searching individually by a specific string.
