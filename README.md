@@ -1,6 +1,6 @@
 Ribbindexer
 
-A simple desktop application for indexing and retrieving documents from network drives.
+A simple program for indexing and retrieving documents from network drives.
 
 What It Does
 
